@@ -20,19 +20,19 @@ Countries - ISO 639, ISO 3166 (ISO3166-1, ISO3166, Digit, Alpha-2, Alpha-3) coun
    - Unicode Emoticons Currencies 
    - UN World Countries Capitals
 
-[![GoDev](https://img.shields.io/badge/godev-reference-5b77b3)](https://pkg.go.dev/github.com/biter777/countries?tab=doc)
+[![GoDev](https://img.shields.io/badge/godev-reference-5b77b3)](https://pkg.go.dev/github.com/wangjian1106/countries?tab=doc)
 [![GoAwesome](https://img.shields.io/badge/awesome%20go-reference-5b77b3)](https://awesome-go.com/utilities/)
-[![Coder](https://img.shields.io/badge/coder-reference-5b77b3)](https://coder.social/biter777/countries)
+[![Coder](https://img.shields.io/badge/coder-reference-5b77b3)](https://coder.social/wangjian1106/countries)
 [![Documentation Status](https://readthedocs.org/projects/countries/badge/?version=latest)](https://countries.readthedocs.io/en/latest/?badge=latest)
 [![DOI](https://zenodo.org/badge/182808313.svg)](https://zenodo.org/badge/latestdoi/182808313)
-[![codeclimate](https://codeclimate.com/github/biter777/countries/badges/gpa.svg)](https://codeclimate.com/github/biter777/countries)
-[![GolangCI](https://golangci.com/badges/github.com/biter777/countries.svg?style=flat)](https://golangci.com/r/github.com/biter777/countries)
-[![GoReport](https://goreportcard.com/badge/github.com/biter777/countries)](https://goreportcard.com/report/github.com/biter777/countries)
+[![codeclimate](https://codeclimate.com/github/wangjian1106/countries/badges/gpa.svg)](https://codeclimate.com/github/wangjian1106/countries)
+[![GolangCI](https://golangci.com/badges/github.com/wangjian1106/countries.svg?style=flat)](https://golangci.com/r/github.com/wangjian1106/countries)
+[![GoReport](https://goreportcard.com/badge/github.com/wangjian1106/countries)](https://goreportcard.com/report/github.com/wangjian1106/countries)
 [![Codiga](https://img.shields.io/badge/codiga%20quality-A+-brightgreen)](https://app.codiga.io/project/3255/dashboard)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/08eb1d2ff62e465091b3a288ae078a96)](https://www.codacy.com/manual/biter777/countries?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=biter777/countries&amp;utm_campaign=Badge_Grade)
-[![codecov](https://codecov.io/gh/biter777/countries/branch/master/graph/badge.svg)](https://codecov.io/gh/biter777/countries)
-[![Coverage Status](https://coveralls.io/repos/github/biter777/countries/badge.svg?branch=master)](https://coveralls.io/github/biter777/countries?branch=master)
-[![Coverage](https://img.shields.io/badge/coverage-gocover.io-brightgreen)](https://gocover.io/github.com/biter777/countries)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/08eb1d2ff62e465091b3a288ae078a96)](https://www.codacy.com/manual/wangjian1106/countries?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wangjian1106/countries&amp;utm_campaign=Badge_Grade)
+[![codecov](https://codecov.io/gh/wangjian1106/countries/branch/master/graph/badge.svg)](https://codecov.io/gh/wangjian1106/countries)
+[![Coverage Status](https://coveralls.io/repos/github/wangjian1106/countries/badge.svg?branch=master)](https://coveralls.io/github/wangjian1106/countries?branch=master)
+[![Coverage](https://img.shields.io/badge/coverage-gocover.io-brightgreen)](https://gocover.io/github.com/wangjian1106/countries)
 [![ISO](https://img.shields.io/badge/powered%20by-ISO-brightgreen)](https://www.iso.org/)
 [![ITU](https://img.shields.io/badge/powered%20by-ITU-brightgreen)](https://www.itu.int/)
 [![IANA](https://img.shields.io/badge/powered%20by-IANA-brightgreen)](http://www.iana.org/)
@@ -40,22 +40,22 @@ Countries - ISO 639, ISO 3166 (ISO3166-1, ISO3166, Digit, Alpha-2, Alpha-3) coun
 [![M49](https://img.shields.io/badge/powered%20by-UN%20M49-brightgreen)](https://unstats.un.org/unsd/methodology/m49/)
 [![CLDR](https://img.shields.io/badge/powered%20by-CLDR-brightgreen)](https://cldr.unicode.org/)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-brightgreen.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Build status](https://ci.appveyor.com/api/projects/status/t9lpor9o8tpacpmr/branch/master?svg=true)](https://ci.appveyor.com/project/biter777/countries/branch/master)
-[![Semaphore Status](https://biter777.semaphoreci.com/badges/countries.svg?style=shields)](https://biter777.semaphoreci.com/projects/countries)
-[![Build Status](https://github.com/biter777/countries/actions/workflows/go.yml/badge.svg)](https://github.com/biter777/countries/actions/workflows/go.yml)
-[![CLDR](https://img.shields.io/badge/deepsource-passing-brightgreen)]([https://cldr.unicode.org/](https://deepsource.io/gh/biter777/countries))
+[![Build status](https://ci.appveyor.com/api/projects/status/t9lpor9o8tpacpmr/branch/master?svg=true)](https://ci.appveyor.com/project/wangjian1106/countries/branch/master)
+[![Semaphore Status](https://wangjian1106.semaphoreci.com/badges/countries.svg?style=shields)](https://wangjian1106.semaphoreci.com/projects/countries)
+[![Build Status](https://github.com/wangjian1106/countries/actions/workflows/go.yml/badge.svg)](https://github.com/wangjian1106/countries/actions/workflows/go.yml)
+[![CLDR](https://img.shields.io/badge/deepsource-passing-brightgreen)]([https://cldr.unicode.org/](https://deepsource.io/gh/wangjian1106/countries))
 <a href="//www.dmca.com/Protection/Status.aspx?ID=7a019cc5-ec73-464b-9707-4b33726f348f" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://img.shields.io/badge/DMCA-protected-brightgreen" alt="DMCA.com Protection Status" /></a>
-[![Dependencies Free](https://img.shields.io/badge/dependencies-free-brightgreen)](https://pkg.go.dev/github.com/biter777/countries?tab=imports)
+[![Dependencies Free](https://img.shields.io/badge/dependencies-free-brightgreen)](https://pkg.go.dev/github.com/wangjian1106/countries?tab=imports)
 [![Gluten Free](https://img.shields.io/badge/gluten-free-brightgreen)](https://www.scsglobalservices.com/services/gluten-free-certification)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/biter777/countries/pulls)
-[![DepShield Badge](https://depshield.sonatype.org/badges/biter777/countries/depshield.svg)](https://depshield.github.io)
-[![Stars](https://img.shields.io/github/stars/biter777/countries?label=Please%20like%20us&style=social)](https://github.com/biter777/countries/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/wangjian1106/countries/pulls)
+[![DepShield Badge](https://depshield.sonatype.org/badges/wangjian1106/countries/depshield.svg)](https://depshield.github.io)
+[![Stars](https://img.shields.io/github/stars/wangjian1106/countries?label=Please%20like%20us&style=social)](https://github.com/wangjian1106/countries/stargazers)
 <br/>
 
 ## installation
 
 ```shell
-go get github.com/biter777/countries
+go get github.com/wangjian1106/countries
 ```
 
 ## usage
@@ -156,26 +156,26 @@ db.Create(user)
 For Emoji use Emoji(). Enjoy!
 
 ```go
-import "github.com/biter777/countries"
+import "github.com/wangjian1106/countries"
 ```
 
-For more complex options, consult the [documentation](http://godoc.org/github.com/biter777/countries).
+For more complex options, consult the [documentation](http://godoc.org/github.com/wangjian1106/countries).
 
 ## Contributing
 
 1. **Welcome pull requests, bug fixes and issue reports**
 
-	[Contributors list](https://github.com/biter777/countries/graphs/contributors)
+	[Contributors list](https://github.com/wangjian1106/countries/graphs/contributors)
 	
 2. **Donate** - a donation isn't necessary, but it's welcome.
 
-	<noscript><a href="https://liberapay.com/biter777/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+	<noscript><a href="https://liberapay.com/wangjian1106/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 	[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I61D1XZ) <a href="https://pay.cloudtips.ru/p/94fc4268" target="_blank"><img height="30" src="https://usa.visa.com/dam/VCOM/regional/lac/ENG/Default/Partner%20With%20Us/Payment%20Technology/visapos/full-color-800x450.jpg"></a> <a href="https://pay.cloudtips.ru/p/94fc4268" target="_blank"><img height="30" src="https://brand.mastercard.com/content/dam/mccom/brandcenter/thumbnails/mastercard_debit_sym_decal_web_105px.png"></a> <a href="https://pay.cloudtips.ru/p/94fc4268" target="_blank"><img height="30" src="https://developer.apple.com/assets/elements/icons/apple-pay/apple-pay.svg"></a> <a href="https://pay.cloudtips.ru/p/94fc4268" target="_blank"><img height="30" src="https://developers.google.com/pay/api/images/brand-guidelines/google-pay-mark.png"></a> <br/>
 
 3. **Star us** - give us a star, please, if it's not against your religion :)
 
 
-	[![Stars](https://img.shields.io/github/stars/biter777/countries?label=Please%20like%20us&style=social)](https://github.com/biter777/countries/stargazers)
+	[![Stars](https://img.shields.io/github/stars/wangjian1106/countries?label=Please%20like%20us&style=social)](https://github.com/wangjian1106/countries/stargazers)
 
 ## Updating ISO 3166
 

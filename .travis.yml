@@ -8,7 +8,7 @@ before_install:
   - go get -t -v ./...
 
 install:
-  - go get github.com/biter777/countries
+  - go get github.com/wangjian1106/countries
 
 script:
  - go test -v -race -coverprofile=coverage.txt -covermode=atomic
