@@ -1,3 +1,3 @@
-module github.com/biter777/countries
+module github.com/wangjian1106/countries
 
 go 1.13
